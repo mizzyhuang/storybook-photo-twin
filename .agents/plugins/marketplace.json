@@ -1,0 +1,10 @@
+{
+  "name": "storybook-photo-twin",
+  "interface": {"displayName": "Storybook Photo Twin"},
+  "plugins": [{
+    "name": "storybook-photo-twin",
+    "source": {"source": "local", "path": "./plugins/storybook-photo-twin"},
+    "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+    "category": "Creativity"
+  }]
+}
