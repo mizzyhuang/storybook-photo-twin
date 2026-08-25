@@ -1,0 +1,19 @@
+{
+  "name": "storybook-photo-twin",
+  "version": "0.1.0",
+  "description": "Add a flat European picture-book wardrobe twin beside a person in a real photo.",
+  "author": {"name": "Storybook Photo Twin contributors"},
+  "license": "MIT",
+  "keywords": ["image-generation", "picture-book", "fashion", "photo-editing"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Storybook Photo Twin",
+    "shortDescription": "Add a flat illustrated wardrobe twin to a photo.",
+    "longDescription": "Creates a separate, hand-drawn European children's-picture-book character beside the person in a real photo while preserving the original photograph.",
+    "developerName": "Storybook Photo Twin contributors",
+    "category": "Creativity",
+    "capabilities": ["Image generation"],
+    "defaultPrompt": ["Use $fashion-photo-storybook-twin to add a picture-book wardrobe twin to this photo."],
+    "brandColor": "#5C8FB8"
+  }
+}
